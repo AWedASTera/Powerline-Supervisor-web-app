@@ -1,0 +1,6 @@
+gunicorn
+Flask
+Flask-SocketIO
+flask_cors
+eventlet
+gevent-websocket
