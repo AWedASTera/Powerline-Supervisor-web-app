@@ -1,5 +1,5 @@
 # Powerline-Supervisor-web-app
- Flask web application for Powerline Supervisor(https://github.com/valentinnsh/powerline_supervisor)
+ Flask web application for Powerline Supervisor(https://github.com/valentinnsh/powerline_supervisor), SPbU, Basics of Grid&Cloud computing
  
 1. Open directory in git bash
 2. login on heroku
